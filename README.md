@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD ABIDUR RAHMAN</h1>
-<h3 align="center">Full Stack Developer, Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer, Competitive Programmer, ML Enthusiast, Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidurrahman14004&label=Profile%20views&color=0e75b6&style=flat" alt="abidurrahman14004" /> </p>
 
