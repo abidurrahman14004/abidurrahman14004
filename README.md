@@ -1,9 +1,9 @@
-<h1 align="center"> MD ABIDUR RAHMAN </h1>
-<h3 align="center"> Developer, Competitive Programmer, ML Enthusiast, Researcher</h3>
+<h1 align="center"> Md Abidur Rahman </h1>
+<h3 align="center"> LLM Engineering Enthusiast. Agentic AI memory optimisation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidurrahman14004&label=Profile%20views&color=0e75b6&style=flat" alt="abidurrahman14004" /> </p>
 
-- 🌱 I’m currently learning **Node Js , Express JS, MongoDB, React**
+- 🌱 I’m currently learning **Agentic AI Memory optimisation**
 
 - 📫 How to reach me **abidurrahman14004@gmail.com**
 
